@@ -1,0 +1,56 @@
+.borde{
+    border: 2px black solid;
+}
+
+.borde2{
+    height: 550px;
+    width: auto;
+    margin: 0%;
+
+}
+
+.borde3{
+    
+    margin-left: 45px;
+    padding: 10px;
+    
+
+}
+
+.centrar{
+    padding: 15px;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    color: white;
+    background-color: blue;
+}
+
+.centrar2{
+    padding: 15px;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    color: rgb(0, 0, 0);
+}
+
+div form{
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    width: 50%;
+    height: 310px;
+    margin-left: 25%;
+}
+
+.form2{
+    height: 370px;
+}
+
+.form3{
+    height: 230px;
+}
+
